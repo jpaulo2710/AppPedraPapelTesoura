@@ -1,2 +1,2 @@
 # AppPedraPapelTesoura
-App pedra papel tesoura
+App pedra papel tesoura em JAVA.
